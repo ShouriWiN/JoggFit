@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		403F59E428DE985A00796506 /* JoggingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 403F59E328DE985A00796506 /* JoggingViewController.swift */; };
 		C1DE905428DD81A800A52AB2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1DE905328DD81A800A52AB2 /* AppDelegate.swift */; };
 		C1DE905628DD81A800A52AB2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1DE905528DD81A800A52AB2 /* SceneDelegate.swift */; };
 		C1DE905828DD81A800A52AB2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1DE905728DD81A800A52AB2 /* ViewController.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		403F59E328DE985A00796506 /* JoggingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JoggingViewController.swift; sourceTree = "<group>"; };
 		C1DE905028DD81A800A52AB2 /* JoggFit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JoggFit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1DE905328DD81A800A52AB2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C1DE905528DD81A800A52AB2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				C1DE905528DD81A800A52AB2 /* SceneDelegate.swift */,
 				C1DE905728DD81A800A52AB2 /* ViewController.swift */,
 				C1DE906728DD823300A52AB2 /* MainViewController.swift */,
+				403F59E328DE985A00796506 /* JoggingViewController.swift */,
 				C1DE906928DD825700A52AB2 /* WelcomeViewController.swift */,
 				C1DE905928DD81A800A52AB2 /* Main.storyboard */,
 				C1DE905C28DD81AD00A52AB2 /* Assets.xcassets */,
@@ -164,6 +167,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				403F59E428DE985A00796506 /* JoggingViewController.swift in Sources */,
 				C1DE905828DD81A800A52AB2 /* ViewController.swift in Sources */,
 				C1DE906A28DD825700A52AB2 /* WelcomeViewController.swift in Sources */,
 				C1DE905428DD81A800A52AB2 /* AppDelegate.swift in Sources */,
